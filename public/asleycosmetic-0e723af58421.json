@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "asleycosmetic",
+  "private_key_id": "0e723af584210470ea40d2f46b9e9fb1c05d65e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVtHviNTpI/PHI\ndaVs9y7NH3A9yV8bF+0SNAh9TZiB/stjP4fxVvNSETS+VVGWHRE2ly1nsnBMb8US\nCvpGet7U3wMsWKuD2yoH0+aKHwT8ZCh9HtFwpPeBycfjh097eUzpnw330wKU0LIR\nibY64iVujZv3+eN0cts0zYhJNyKZtkBBDzfXgqARsyKZinLtD2Ikuy4Jv99+PMkR\nbUMDq9/HpFR0cvBP3KYDKudNZhmCrIep6vPX19MESApjMRK6J80dTlnFXj0zVdvd\n+rsNU6IOrp+WR3waVRlLs9QDTLMV5iGEgB2b6roAtux+ZjUCzw/Ocomo22PJ8ZnX\nbC4AhQL7AgMBAAECggEAF3/JsZWly5nY4nChWKqToGWpG3o1tY57eKl1F4Y9U2oX\nplm5kp27ktYmhRlvp8CZgHW+Pe1esOEHfBTt8WsYbrL5L9quPYkPhZ3U93Iyw6gl\n1aBaancRalmsW8YoxMyRWw0s5Yfz/DY4pnoMqkvszsvOj0WQr+DjXtqM9nQUH2+6\nCtAsJRTAeAawyhYQfSVbT6K3u2BvC5+Chd/TN/Zjtyu6/RfMpEthEwIkQSDJgw0l\nX1u4KSaDsZSVsXdgLC9KomX9oldnp+ROtmxXcOItXMMDL5cBYVO5Py1Nf3t7+McF\nIQ5pREL/vKLBPl4Jfe1DSt4kj81RHydMXMjHeIVUKQKBgQDwJRn1B5NHkBMkMiZi\nR0R9RmoLcRDgeTe/3Byh0C8Ofg7bm4OGBjOC/IhjQEvC5HNfi/1mbYuEsRyd81Pq\nF+KNaM5BBkC0hhvI3bs/8rIqOAOPNAsFM9MfOIYcrseML3uqIH1SjjBubpOB8O7I\nS+gNJkdTnIdiTF5kGdH27BsBIwKBgQDj0H+gX0IUAddhpYtefWhoHDcwn/XDACsz\nZYIKIJXR2ooUxClYfLUKts5OlCllNMixKpa7ed5v9lY8x8g2c0q+YAVlu13CrQzw\nG9R9LJVqu4hgjn3dP+GRZAc87IILl0mg03tv7gN5P9AeMMaYAEjsTtjn3OiacB1O\nkZDmIPqQSQKBgQDYN5+CZdqugUMqwNicfixlWwPZ32hho+KVJVrGOopT0x4PjprC\nDk1M75DhRB+yjzxt175E/fazd0Ab2t1AFVdPGQEzvKx/nYvgs/uHXT4bEynpQuN1\nQK8jGiJuKtPSHWKL0ArmTM3AcGDxivuDbgy14jQwTOv8jmQiXrkUSIsb3wKBgGqa\nJw6ZZKdOEUYdG/FUR6XoBh9Xyr2793sudcJdax3u4IxFGn/QozrnPfThOdmk8ICO\nyEfkCCVmJQZ+Cf8IxiH9dqkbGw28woAc1brZQPXX2UIti1Ib0WaiYwysM1JPMeHy\n9CD1RGTZan6mHlgEUhtZ7f/ZjHKwIdahISe+qOEZAoGBAJ8tNAp5I8H8nCiJEBa1\n7feT3jhGVSVTQmiE5MsxAppQqVZdwCILFCSdmGqHIG+LFtCsUzcXJAk/Y8v767Q4\np/T/pKBOeT+7+Cud1GyUE0HDq0Nc8oCGXo44PyTVaNpQEWbejm+fV2vidp/NrmCA\nd2iSm50sUwgHV1logA8RBrYk\n-----END PRIVATE KEY-----\n",
+  "client_email": "ggapi-699@asleycosmetic.iam.gserviceaccount.com",
+  "client_id": "102467636797071435872",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ggapi-699%40asleycosmetic.iam.gserviceaccount.com"
+}
